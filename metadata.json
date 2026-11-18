@@ -1,0 +1,6 @@
+{
+  "name": "Smart Money",
+  "description": "Offline personal and business UPI & banking transaction tracker with automatic notification parsing, contact ledger, categorization, and CSV/PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
